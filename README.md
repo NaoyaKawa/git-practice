@@ -1,2 +1,3 @@
 hoge
-hazy haze
+hazy
+hell
